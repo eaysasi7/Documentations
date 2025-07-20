@@ -1,6 +1,6 @@
 ## VRIK Inspector Breakdown
 
-<img class="image-style-align-right image_resized" style="aspect-ratio:378/112;width:49.64%;" src="[api/attachments/Tv2yBZfOhyTM/image/image.png](https://github.com/eaysasi7/Documentations/blob/main/VRIK/images/vrikbasic.png)" width="378" height="112">
+<img class="image-style-align-right image_resized" style="aspect-ratio:378/112;width:49.64%;" src="https://github.com/eaysasi7/Documentations/blob/main/VRIK/images/vrikbasic.png" width="378" height="112">
 
 There are 3 main sections
 
