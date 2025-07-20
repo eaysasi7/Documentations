@@ -16,9 +16,7 @@ There are 3 main sections
 
 This first section gives you the Script, which cannot be edited and this has the same behavior as any other scripts added as a component to a game object like these Input Action Manager and Progress Bar scripts.
 
-  
-
-![](api/attachments/0bygEQHXnAB8/image/image.png)
+ 
 
 Next is the **Fix Transforms** checkbox. This checkbox is mostly concerned with rigs that have animations, but it's advisable to keep this box checked, regardless.
 
