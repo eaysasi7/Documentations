@@ -16,8 +16,6 @@ There are 3 main sections
 
 This first section gives you the Script, which cannot be edited and this has the same behavior as any other scripts added as a component to a game object like these Input Action Manager and Progress Bar scripts.
 
- 
-
 Next is the **Fix Transforms** checkbox. This checkbox is mostly concerned with rigs that have animations, but it's advisable to keep this box checked, regardless.
 
 If checked, the IK Solver will store the “initial state” of the transforms before the Update() method is called for the _next_ frame. The “initial state” of the transforms is the position, rotation, and scale of the transform in the _current_ frame. Therefore, the necessary movements/changes to the transforms will solve based on the state of the transform from the previous frame, whether in the middle of an animation or not. Some animations do not have data for all transforms in your rig. Fix Transforms ensures that all transforms are subject to the IK solver regardless of their inclusion in an animation which could override their position. This keeps all transforms looking and acting natural.
